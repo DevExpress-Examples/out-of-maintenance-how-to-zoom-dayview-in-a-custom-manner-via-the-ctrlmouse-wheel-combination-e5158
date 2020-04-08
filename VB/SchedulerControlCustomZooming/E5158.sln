@@ -1,4 +1,4 @@
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DXApplication5", "DXApplication5\DXApplication5.vbproj", "{7A4D5E5A-B076-487F-8E36-9309C47BB4B8}"
 EndProject
